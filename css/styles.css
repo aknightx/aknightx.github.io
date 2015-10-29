@@ -1,6 +1,15 @@
-h1 {
-    text-align: center;
 
+
+h1 {
+    right: -40%;
+    background: red;
+    border-radius: 90px;
+    position:relative;
+    max-width: 10%;
+    text-align: center;
+    font-family: yellowtail;
+    font-weight: 200;
+    
 
 }
  div {
@@ -52,4 +61,7 @@ h4 {
 ul#things {
      margin-left: 30px;
     font-size: 20px;
+}
+.ytp-thumbnail-overlay ytp-cued-thumbnail-overlay  {
+    right: 50%;
 }
