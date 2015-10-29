@@ -2,8 +2,8 @@
 
 h1 {
     right: -40%;
-    background: red;
     border-radius: 90px;
+    text: inline-block;
     position:relative;
     max-width: 10%;
     text-align: center;
